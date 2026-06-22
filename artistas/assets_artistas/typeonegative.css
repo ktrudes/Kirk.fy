@@ -12,7 +12,7 @@
 body {
     margin: 0;
     background-color: black;
-    background-image: url(../artistas/assets_artistas/img/OctoberRustcover.jpg);
+    background-image: url(img/OctoberRustcover.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
