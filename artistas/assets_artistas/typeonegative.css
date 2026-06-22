@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: myFont;
-    src: url(.../assets/helvetica-93-black-extended.otf);
+    src: url(../assets/helvetica-93-black-extended.otf);
 }
 
 /* BODY */
